@@ -1,0 +1,10 @@
+Sales_order_ no	Sales_order_date	cust _id	Salesman_id	Bill_payby_party	Delivery_ date	item_rate	Tot_quantity_ order	Cancel_date
+son01001	01-Aug-2008	cu01001	s001	yes	20-Aug-2008	2220.4	50	null
+son01002	12-Aug-2008	cu01004	s001	yes	23-Aug-2008	2220.4	15	null
+son01003	12-Aug-2008	cu01005	s002	yes	26-Aug-2008	2220.4	10	null
+son01004	13-Aug-2008	cu01004	s001	yes	20-Aug-2008	2220.4	15	null
+son01005	14-Aug-2008	cu01002	s002	no	30-Aug-2008	2220.4	52	28-March-2008
+son01006	15-Aug-2008	cu01001	s001	yes	31-Aug-2008	2220.4	43	null
+son01007	16-Aug-2008	cu01003	s004	yes	28-Aug-2008	2220.4	54	null
+son01008	16-Jan-2008	cu01004	s003	yes	02-Aug-2008	2390	34	null
+son01009	01-Feb-2008	cu01004	s003	no	28-Aug-2008	8220.4	54	18-March-2008

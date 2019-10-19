@@ -1,0 +1,9 @@
+item_id,item_name,Manu_name,item_rate,Sell_prize,item_discription
+i001,lux_soap,lux_company,15.67,20.43,soap
+i002,copy,royal_notebook,14.8,16.4,copy
+i003,goodday_biscuit,britania_stores,2218.8,2220.4,biscuit
+i004,reynolds_pen,pen_parker,2015.67,2120.43,pen
+i005,sql_books,book_bpb,5104.8,5116.4,book
+i006,tata_steel,tata_sons,5118.8,5120.4,tata
+i007,seagate hdd,hp_world,5104.8,5116.4,HDD1034
+i008,dvd writer,moserbear_org,5118.8,5120.4,DVDRW
