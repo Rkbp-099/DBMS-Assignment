@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "DBMS_ASSIGN",
+            "dialect": "MySQL",
+            "name": "MySQL",
+            "password": "Raktim2#",
+            "port": 3306,
+            "server": "localhost",
+            "username": "raktim1"
+        }
+    ]
+}
