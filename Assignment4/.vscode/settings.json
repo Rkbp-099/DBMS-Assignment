@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "Assign4",
+            "dialect": "MySQL",
+            "name": "Assign4",
+            "password": "Raktim2#",
+            "port": 3306,
+            "server": "localhost",
+            "username": "raktim1"
+        }
+    ]
+}
