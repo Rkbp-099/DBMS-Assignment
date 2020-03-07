@@ -1,32 +1,32 @@
 -- 1
--- select
---   sname
--- from supplier natural
--- join spj
--- where
---   pno = 'P3';
+select
+  sname
+from supplier natural
+join spj
+where
+  pno = 'P3';
 -- 2
--- select
---   distinct sname
--- from supplier natural
--- join spj
--- where
---   pno = 'P3';
+select
+  distinct sname
+from supplier natural
+join spj
+where
+  pno = 'P3';
 -- 3
--- select
---   sno,
---   sname
--- from supplier natural
--- join spj
--- where
---   jno = 'J1';
+select
+  sno,
+  sname
+from supplier natural
+join spj
+where
+  jno = 'J1';
 -- 4
--- select
---   pno
--- from supplier natural
--- join spj
--- where
---   city = 'london';
+select
+  pno
+from supplier natural
+join spj
+where
+  city = 'london';
 -- 5
 select
   pno
